@@ -1,8 +1,9 @@
 ﻿#include <iostream>
+#include "header.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+  std::cout << "Lesson" << LESSON << std::endl;
 }
 /*
     Git - система контроля версий 
